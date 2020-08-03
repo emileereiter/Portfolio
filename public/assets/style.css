@@ -1,0 +1,78 @@
+#navBarDiv{
+    margin-bottom: 25px;
+    background-color: rgb(227, 232, 233);
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.navbar-nav {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 50px;
+}
+
+/* #mountainJumbo {
+    background-image: url("/images/mountainS.png")!important;
+    background-size: cover;
+} */
+
+.row {
+    justify-content: center;
+    padding: 25px;
+    margin: 50px auto;
+    color:#81e3dc;
+} 
+
+h2 {
+    padding-top: 0px;
+    padding-left: 25px;
+    color: #81e3dc;
+}
+
+p {
+    margin-top: 25px;
+    /* padding-left: 25px; */
+    color: black;
+    font-family: 'Playfair Display', serif;
+} 
+
+#contactInfo {
+    text-align: center;
+    color:#81e3dc;
+}
+
+/* #repos {
+    margin: 50px;
+}
+
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+  }
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+} */
+
+/* body {
+    background-image: url("../images/mountain.png.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1406px 512px;
+} */
+
+/* #header {
+    margin-top: 100px;
+}
+
+#subHeader {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    color:#81e3dc;
+    font-size: 10px;
+} */
